@@ -1,5 +1,7 @@
 👋 Hi, I’m Mahmoud Bassem
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Bassem-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-username/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Bassem-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ma7moud-bassem/)
+
 👀 I’m passionate about Mobile App Development  
 🌱 (Flutter - Dart - Cross-platform apps)  
 
