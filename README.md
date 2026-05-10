@@ -1,32 +1,11 @@
-# 👋 Hi, I'm Mahmoud Bassem
-
+👋 Hi, I’m Mahmoud Bassem  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Bassem-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ma7moud-bassem/)
 
-## 🚀 About Me
-I'm a Flutter Developer passionate about building modern, responsive, and user-friendly mobile applications.
+![](https://komarev.com/ghpvc/?username=Beso-07&style=for-the-badge)
 
-- 📱 Flutter & Dart Developer
-- 🔥 Interested in Cross-Platform App Development
-- 🎯 Focused on Clean UI & Smooth User Experience
-- 🔗 Experienced in API Integration
-- 🧠 Always learning new technologies and best practices
+I’m passionate about Mobile App Development  
+(Flutter - Dart - Cross-platform apps)
 
-## 💻 Skills
-- Flutter
-- Dart
-- REST APIs
-- State Management
-- Firebase
-- Clean Architecture
-- Git & GitHub
+During my journey, I have been building a variety of apps, focusing on creating functional and user-friendly applications. I have experience with implementing clean UI, following key design patterns, integrating APIs, and optimizing app performance for a smooth user experience.
 
-## 🌱 Currently Learning
-- Advanced Flutter Architecture
-- Backend Integration
-- Performance Optimization
-
-## 📌 Goals
-I aim to contribute to impactful projects, collaborate with talented developers, and continue growing as a software engineer.
-
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/ma7moud-bassem/
+I enjoy turning creative ideas into real apps and continuously improving my skills by keeping up with the latest technologies. I’m eager to contribute to a team, collaborate with other developers, and grow as a Flutter developer.
