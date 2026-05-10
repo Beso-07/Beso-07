@@ -1,11 +1,57 @@
-👋 Hi, I’m Mahmoud Bassem  
+# Hi, I'm Mahmoud Bassem
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Bassem-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ma7moud-bassem/)
 
-![](https://komarev.com/ghpvc/?username=Beso-07&style=for-the-badge)
+Flutter Developer passionate about building modern, scalable, and high-performance mobile applications.
 
-I’m passionate about Mobile App Development  
-(Flutter - Dart - Cross-platform apps)
+---
 
-During my journey, I have been building a variety of apps, focusing on creating functional and user-friendly applications. I have experience with implementing clean UI, following key design patterns, integrating APIs, and optimizing app performance for a smooth user experience.
+## Tech Stack
 
-I enjoy turning creative ideas into real apps and continuously improving my skills by keeping up with the latest technologies. I’m eager to contribute to a team, collaborate with other developers, and grow as a Flutter developer.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,postman" />
+</p>
+
+---
+
+## APIs & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://img.shields.io/badge/REST%20API-Integration-blue?style=for-the-badge" />
+</p>
+
+---
+
+## State Management
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cubit-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Provider-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Riverpod-purple?style=for-the-badge" />
+</p>
+
+---
+
+## Architecture & Patterns
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVVM-lightgrey?style=for-the-badge" />
+</p>
+
+---
+
+## Code Quality
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean%20Code-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Best%20Practices-success?style=for-the-badge" />
+</p>
+
+---
+
+I focus on building real-world Flutter applications with clean architecture, scalable structure, and smooth user experience. I continuously improve my skills in mobile development and software engineering best practices.
