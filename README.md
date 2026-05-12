@@ -1,7 +1,5 @@
-# Hi, I'm Mahmoud Bassem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Mahmoud+Bassem+🚀;Mobile+App+Developer+📱;Flutter+Developer+💙;Building+Modern+Mobile+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi, I'm Mahmoud Bassem+;Mobile+App+Developer+📱;Flutter+Developer+💙;Building+Modern+Mobile+Applications" />
 </p>
 
 <p align="center">
@@ -12,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 🎓 4th Year Computer Science Student
 * 📱 Mobile App Developer specialized in Flutter
@@ -27,7 +25,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,postman,java,cpp,html,js,nodejs,mongodb,express" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,postman,java,cpp,html,js" />
 </p>
 
 ---
@@ -64,32 +62,10 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:yourgmail@gmail.com">
+  <a href="mailto:mahmoudbassem34@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -97,7 +73,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://wa.me/201XXXXXXXXX">
+  <a href="https://wa.me/201112764146">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
