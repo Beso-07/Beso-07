@@ -1,6 +1,11 @@
-# Hi, I'm Mahmoud Bassem
+# Hi, I'm Mahmoud Bassem 👋📱  
+### Mobile App Developer (Flutter Developer)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Bassem-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ma7moud-bassem/)
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&width=600&lines=Flutter+Developer+📱;Mobile+App+Developer+🚀;Building+Modern+%26+Scalable+Apps" />
+</p>
 
 Flutter Developer passionate about building modern, scalable, and high-performance mobile applications.
 
@@ -9,7 +14,7 @@ Flutter Developer passionate about building modern, scalable, and high-performan
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,postman,java,cpp,html,js" />
 </p>
 
 ---
