@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi, I'm Mahmoud Bassem+;Mobile+App+Developer+📱;Flutter+Developer+💙;Building+Modern+Mobile+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Mahmoud+Bassem+👋;Mobile+App+Developer+📱;Flutter+Expert+💙;Building+Modern+Experiences+🚀" />
 </p>
 
 <p align="center">
@@ -10,14 +10,14 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
-* 🎓 4th Year Computer Science Student
-* 📱 Mobile App Developer specialized in Flutter
+* 🎓 **4th Year Computer Science Student**
+* 📱 **Mobile App Developer** specialized in **Flutter**
 * 💡 Passionate about building scalable and modern mobile apps
-* 🔥 Interested in Clean Architecture & State Management
-* ⚡ Exploring Backend Integration & APIs
-* 🎯 Focused on building smooth and responsive UI/UX
+* 🔥 Interested in **Clean Architecture** & **State Management**
+* ⚡ Exploring **Backend Integration** & **APIs**
+* 🎯 Focused on building smooth and responsive **UI/UX**
 * 🧠 Constantly learning new technologies
 
 ---
@@ -43,7 +43,7 @@
 ## 🧠 State Management
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge&logo=bloc"/>
   <img src="https://img.shields.io/badge/Cubit-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Provider-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Riverpod-purple?style=for-the-badge"/>
@@ -77,9 +77,3 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
----
-
-## ⚡ Fun Fact
-
-💙 I enjoy turning ideas into real mobile applications using Flutter.
