@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Mahmoud+Bassem+👋+(Mobile+App+Developer)" />
-</p>>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Mahmoud+Bassem+👋" />
+</p>
+
+<p align="center" style="color:#00C2FF; font-size:18px;">
+  Mobile App Developer (Flutter)
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ma7moud-bassem/">
