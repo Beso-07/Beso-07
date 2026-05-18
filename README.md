@@ -10,6 +10,10 @@
   <a href="https://www.linkedin.com/in/ma7moud-bassem/">
     <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Bassem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="https://my-portfolio-lovat-nu-73.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-My%20Website-00C2FF?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
 ---
