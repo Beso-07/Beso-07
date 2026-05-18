@@ -2,19 +2,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Mahmoud+Bassem+👋" />
 </p>
 
+<br/>
+
 <p align="center" style="color:#00C2FF; font-size:18px;">
   Mobile App Developer (Flutter)
 </p>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ma7moud-bassem/">
     <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Bassem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://my-portfolio-lovat-nu-73.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-My%20Website-00C2FF?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
+
+<br/>
 
 ---
 
